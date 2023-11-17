@@ -1,0 +1,29 @@
+.btn-size{
+    display: inline-block;
+    margin: 0 10px;
+    padding: 12px ;
+}
+.btn-size button{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.btn-size button:hover{
+    background-color: lightgreen;
+    color: black;
+}
+
+
+.btn-light{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.btn-dark{
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+}
